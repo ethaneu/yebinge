@@ -30,8 +30,8 @@
   ![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat&logo=intellij-idea&logoColor=007ACC)
 
 ### Contact Me
-&nbsp;&nbsp;&nbsp;&nbsp;You can contact me via [Linkedin](https://www.linkedin.com/in/ethange/)
-
+&nbsp;&nbsp;&nbsp;&nbsp;You can contact me via <a href="https://www.linkedin.com/in/ethange/" target="_blank">Linkedin<a>
+  
 <br/>
 <a href="https://github.com/yebinge">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yebinge&theme=buefy&show_icons=true" />
