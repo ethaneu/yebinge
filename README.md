@@ -10,7 +10,7 @@
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java&logoColor=007396)
   ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)
+  ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=CSS3&logoColor=1572B6)
 <br/>&emsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
