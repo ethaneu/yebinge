@@ -1,6 +1,7 @@
 ## Hi there 👋, &nbsp; I'm Ethan
 
 ### About
+I am Ethan, I am passionate about developing web applications and striving to create innovative products.
 
 
 ### Languages and Tools
