@@ -34,9 +34,9 @@ I am Ethan, I am passionate about developing web applications and striving to cr
 &nbsp;&nbsp;&nbsp;&nbsp;You can contact me via <a href="https://www.linkedin.com/in/ethange/" target="_blank">Linkedin<a>
   
 <br/>
-<a href="https://github.com/yebinge">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yebinge&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yebinge&theme=buefy&layout=compact" />
+<a href="https://github.com/ethangeau">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethangeau&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangeau&theme=buefy&layout=compact" />
 </a>
 
 <!--
