@@ -1,10 +1,13 @@
 ## Hi there 👋, &nbsp; I'm Ethan
 
 ### About
-I am Ethan, I am passionate about developing web applications and striving to create innovative products.
+- 🔭 I’m currently doing my final semester Master of Information Technology degree at University of Melbourne.
+- 🌱 I am passionate about software engineering and striving to create innovative products.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ethange/" target="_blank">Linkedin<a>
+- ⚡ Fun fact: In 1967, the first computer "bug" was discovered. It was a moth that had gotten trapped in a computer at Harvard University.
 
 
-### Languages and Tools
+### Weapons
 
 &emsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
@@ -25,31 +28,15 @@ I am Ethan, I am passionate about developing web applications and striving to cr
   ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+  ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws&logoColor=FF9900)
+  ![Azure](https://img.shields.io/badge/-azure-black?style=flat&logo=microsoftazure&logoColor=white)
   ![Postman](https://img.shields.io/badge/-Postman-black?style=flat&logo=postman)
-  ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat&logo=jupyter&logoColor=007ACC)
-  ![IntelliJ_IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat&logo=intellij-idea&logoColor=007ACC)
 
-### Contact Me
-&nbsp;&nbsp;&nbsp;&nbsp;You can contact me via <a href="https://www.linkedin.com/in/ethange/" target="_blank">Linkedin<a>
-  
+
 <br/>
 <a href="https://github.com/ethangeau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethangeau&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangeau&theme=buefy&layout=compact" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ethangeau&theme=buefy&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangeau&theme=buefy&layout=compact" />
 </a>
 
-<!--
-**yebinge/yebinge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
