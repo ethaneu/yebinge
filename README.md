@@ -36,7 +36,7 @@
 
 <br/>
 <a href="https://github.com/ethangeau">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ethangeau&theme=buefy&show_icons=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangeau&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ethangeau&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethangeau&theme=buefy&layout=compact" />
 </a>
 
